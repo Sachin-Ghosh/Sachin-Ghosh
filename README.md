@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-ghosh" /> </p>
 
-- 🔭 I’m currently working on **HomeEase**
+- 🔭 I’m currently working on **Home Ease**
 
 - 🌱 I’m currently learning **Python & Django**
 
-- 👯 I’m looking to collaborate on **Godawn**
+- 👯 I’m looking to collaborate on **Talent acquisition platform**
 
-- 🤝 I’m looking for help with **Website Builder**
+- 🤝 I’m looking for help with **Student Council Website**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-five-pi.vercel.app/](https://portfolio-website-five-pi.vercel.app/)
 
